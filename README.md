@@ -1,2 +1,2 @@
 # todolist
-react+springboot
+springboot + react
